@@ -68,7 +68,7 @@ class Tile:
         self.x += delta[0]
         self.y += delta[1]
 
-
+'requirements'
 def end_move(tiles):
     if len(tiles) == 16:
         return "lost"
